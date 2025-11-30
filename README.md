@@ -1,6 +1,6 @@
 ## Self-Reflection-in-LLMs-MLLMs-A-Lifecycle-Oriented-Repository
 
-### Abstract
+### Introduction
 
 Self-reflection in large language models (LLMs) has recently gained attention as a form of metacognitive capability, enabling models to examine, evaluate, and revise their own generated content, reasoning processes, or knowledge boundaries. Our survey of recent literature shows that self-reflection occurs across the entire LLM lifecycle, including in pretrained base models that are not explicitly aligned with human preferences. Current research broadly categorizes such reflection into intrinsic and external forms: the former arises autonomously during a model’s internal reasoning process, while the latter is triggered by external signals such as human feedback or automated tools. In this literature review, we provide a concise analysis of studies related to self-reflection in LLMs, organizing them into three main categories according to the stage of the model lifecycle in which reflection occurs: 1) Model-Level Reflection: Construction and Alignment, 2) Inference-Time Reflection for Reasoning and Behavioral Control, and 3) Reflection in LLM-Based Agent Systems. We further discuss the conceptual and functional distinctions between intrinsic and external self-reflection, and identify prospective research directions and associated challenges. It is our hope that this review offers a structured overview of the current landscape of self-reflection in LLMs and facilitates future exploration.
 
