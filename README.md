@@ -8,6 +8,35 @@ Self-reflection in large language models (LLMs) has recently gained attention as
 
 ### Papers
 
+#### Model-Level Reflection: Construction and Alignment
+
+**Post-Training and Alignment**
+
+
+
+**Pre-Training**
+
+
+
+#### Inference-Time Reflection for Reasoning and Behavioral Control
+
+**Prompting**
+
+
+
+**Reasoning Techniques**
+
+
+
+**Retrieval-Augmented Methods**
+
+
+
+#### Reflection in LLM-Based Agent System
+
+
+
+
 | Time | Title                                                                                              | Venue         | Paper/Code                                                                                   |
 |------|----------------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------|
 | 2511 | Think Before You Retrieve: Learning Test-Time Adaptive Search with Small Language Models           | arXiv         | [Paper](https://arxiv.org/abs/2511.07581v1)                                                  |
